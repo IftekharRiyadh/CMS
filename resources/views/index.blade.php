@@ -47,15 +47,16 @@ https://templatemo.com/tm-574-mexant
                       <!-- ***** Menu Start ***** -->
                       <ul class="nav">
                           <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
-                          <li class="scroll-to-section"><a href="#services">Our Services</a></li>
-                          <li class="scroll-to-section"><a href="#about">About</a></li>
+                          <li class="scroll-to-section"><a href="#About Us">About Us</a></li>
+                          <li class="scroll-to-section"><a href="#Library">Library</a></li>
+                          <li class="scroll-to-section"><a href="#Book List">Book List</a></li>
                           <li class="has-sub">
-                              <a href="javascript:void(0)">Pages</a>
+                              <a href="javascript:void(0)">Committee</a>
                               <ul class="sub-menu">
-                                  <li><a href="./about-us">About Us</a></li>
-                                  <li><a href="./our-services">Our Services</a></li>
-                                  <li><a href="./course">Courses</a></li>
-                                  <li><a href="./choose">Why Choose Us</a></li>
+                                  <li><a href="./about-us">New Comittee</a></li>
+                                  <li><a href="./our-services">Old Comittee</a></li>
+                                  <li><a href="./course">Members</a></li>
+                                  <!-- <li><a href="./choose">Why Choose Us</a></li>
                                   <li><a href="./admission">Admission</a></li>
                                   <li><a href="./admission-requirement">Admission Requirement</a></li>
                                   <li><a href="./success">Success Story</a></li>
@@ -68,13 +69,13 @@ https://templatemo.com/tm-574-mexant
                                   <li><a href="./branches">Branches</a></li>
                                   <li><a href="./Gallery">Gallery</a></li>
                                   <li><a href="./publication">Publication</a></li>
-                                  <li><a href="./contact-us">Contact Us</a></li>
+                                  <li><a href="./contact-us">Contact Us</a></li> -->
                                   
 
                               </ul>
                           </li>
-                          <li class="scroll-to-section"><a href="#testimonials">Testimonials</a></li>
-                          <li><a href="./contact-us">Contact Support</a></li> 
+                          <li class="scroll-to-section"><a href="#logIn">Log In</a></li>
+                          <!-- <li><a href="./contact-us">Contact Support</a></li>  -->
                       </ul>        
                       <a class='menu-trigger'>
                           <span>Menu</span>
@@ -519,9 +520,9 @@ https://templatemo.com/tm-574-mexant
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>Copyright © 2022 Mexant Co., Ltd. All Rights Reserved. 
+          <p> 
           
-          <br>Designed by <a title="CSS Templates" rel="sponsored" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
+          <br>Designed by <a title="CSS Templates" rel="sponsored" href="https://www.linkedin.com/in/iftekhar-riyadh-17610a212/" target="_blank">Riyadh</a></p>
         </div>
       </div>
     </div>
