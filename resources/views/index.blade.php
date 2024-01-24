@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-    <title>Mexant - Financial HTML5 Template</title>
+    <title>Library</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -41,13 +41,13 @@ https://templatemo.com/tm-574-mexant
                   <nav class="main-nav">
                       <!-- ***** Logo Start ***** -->
                       <a href="index.blade.php" class="logo">
-                          <img src="assets/images/logo.png" alt="">
+                          <img src="assets/images/logo.png" alt="" style="width: 100px; height: 100px;">
                       </a>
                       <!-- ***** Logo End ***** -->
                       <!-- ***** Menu Start ***** -->
                       <ul class="nav">
                           <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
-                          <li class="scroll-to-section"><a href="#About Us">About Us</a></li>
+                          <li class="scroll-to-section"><a href="#About-us">About Us</a></li>
                           <li class="scroll-to-section"><a href="#Library">Library</a></li>
                           <li class="scroll-to-section"><a href="#Book List">Book List</a></li>
                           <li class="has-sub">
@@ -92,12 +92,12 @@ https://templatemo.com/tm-574-mexant
   <div class="swiper-container" id="top">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <div class="slide-inner" style="background-image:url(assets/images/slide-01.jpg)">
+        <div class="slide-inner" style="background-image:url(assets/images/slide01.jpg)">
           <div class="container">
             <div class="row">
               <div class="col-lg-8">
                 <div class="header-text">
-                  <h2>Get <em>ready</em> for your business<br>&amp; upgrade <em>all aspects</em></h2>
+                  <h2>পড়ার  <em>অভ্যাস </em> গড়ে তুলি<br> মাদককে <em>না বলি</em></h2>
                   <div class="div-dec"></div>
                   <p>Mexant HTML5 Template is provided for free of charge. This layout is based on Boostrap 5 CSS framework. Anyone can download and edit for any professional website. Thank you for visiting TemplateMo website.</p>
                   <div class="buttons">
@@ -115,12 +115,12 @@ https://templatemo.com/tm-574-mexant
         </div>
       </div>
       <div class="swiper-slide">
-        <div class="slide-inner" style="background-image:url(assets/images/slide-02.jpg)">
+        <div class="slide-inner" style="background-image:url(assets/images/slide02.jpg)">
           <div class="container">
             <div class="row">
               <div class="col-lg-8">
                 <div class="header-text">
-                  <h2><em>Digital</em> Currency for you <br>&amp; Best <em>Crypto</em> Tips</h2>
+                  <h2><em>দরিদ্র </em> মেধাবী শিক্ষার্থীদের <br> শিক্ষা  <em>উপকরণ </em> বিতরন</h2>
                   <div class="div-dec"></div>
                   <p>You will see a bunch of free CSS templates when you search on Google. TemplateMo website is probably the best one because it is 100% free. It does not ask you anything in return. You have a total freedom to use any template for any purpose.</p>
                   <div class="buttons">
@@ -138,12 +138,12 @@ https://templatemo.com/tm-574-mexant
         </div>
       </div>
       <div class="swiper-slide">
-        <div class="slide-inner" style="background-image:url(assets/images/slide-03.jpg)">
+        <div class="slide-inner" style="background-image:url(assets/images/slide03.jpg)">
           <div class="container">
             <div class="row">
               <div class="col-lg-8">
                 <div class="header-text">
-                  <h2>Best One in Town<br>&amp; Crypto <em>Services</em></h2>
+                  <h2>জাতীয় দিবস উদযাপনে<br>মেধাভিত্তিক <em>কুইজ প্রতিযোগিতা</em></h2>
                   <div class="div-dec"></div>
                   <p>When you browse through different tags on TemplateMo website, you can see a variety of CSS templates which are responsive website designs for different individual needs. Please tell your friends about our website. Thank you.</p>
                   <div class="buttons">
