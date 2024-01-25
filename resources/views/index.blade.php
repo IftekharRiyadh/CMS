@@ -41,7 +41,7 @@ https://templatemo.com/tm-574-mexant
                   <nav class="main-nav">
                       <!-- ***** Logo Start ***** -->
                       <a href="index.blade.php" class="logo">
-                          <img src="assets/images/logo.png" alt="" style="width: 100px; height: 100px;">
+                          <img src="assets/images/logo.png" alt="" style="width: 80px; height: 80px;">
                       </a>
                       <!-- ***** Logo End ***** -->
                       <!-- ***** Menu Start ***** -->
@@ -129,7 +129,7 @@ https://templatemo.com/tm-574-mexant
                       <a href="#">Discover More</a>
                     </div>
                     <div class="orange-button">
-                      <a href="#">Contact Us</a>
+                      <a href="./contact-us">Contact Us</a>
                     </div>
                   </div>
                 </div>

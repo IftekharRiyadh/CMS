@@ -40,21 +40,23 @@ https://templatemo.com/tm-574-mexant
                   <nav class="main-nav">
                       <!-- ***** Logo Start ***** -->
                       <a href="index.html" class="logo">
-                          <img src="assets/images/logo.png" alt="">
+                          <img src="assets/images/logo.png" alt="" style="width: 80px; height: 80px;">
                       </a>
                       <!-- ***** Logo End ***** -->
                       <!-- ***** Menu Start ***** -->
                       <ul class="nav">
                           <li class="scroll-to-section"><a href="./">Home</a></li>
-                          <li class="scroll-to-section"><a href="./">Our Services</a></li>
-                          <li class="scroll-to-section"><a href="./">About</a></li>
+                          <li class="scroll-to-section"><a href="./">About Us</a></li>
+                          <li class="scroll-to-section"><a href="./">Library</a></li>
+                          <li class="scroll-to-section"><a href="./">Book List</a></li>
+                          <li class="scroll-to-section"><a href="./">Gallery</a></li>
                           <li class="has-sub">
-                              <a href="javascript:void(0)">Pages</a>
+                              <a href="javascript:void(0)">Committee</a>
                               <ul class="sub-menu">
-                              <li><a href="./about-us">About Us</a></li>
-                                  <li><a href="./our-services">Our Services</a></li>
-                                  <li><a href="./course">Courses</a></li>
-                                  <li><a href="./choose">Why Choose Us</a></li>
+                              <li><a href="./about-us">New Committee</a></li>
+                                  <li><a href="./our-services">Old Committee</a></li>
+                                  <li><a href="./course">Members</a></li>
+                                  <!-- <li><a href="./choose">Why Choose Us</a></li>
                                   <li><a href="./admission">Admission</a></li>
                                   <li><a href="./admission-requirement">Admission Requirement</a></li>
                                   <li><a href="./success">Success Story</a></li>
@@ -67,11 +69,11 @@ https://templatemo.com/tm-574-mexant
                                   <li><a href="./branches">Branches</a></li>
                                   <li><a href="./Gallery">Gallery</a></li>
                                   <li><a href="./publication">Publication</a></li>
-                                  <li><a href="./contact-us">Contact Us</a></li>
+                                  <li><a href="./contact-us">Contact Us</a></li> -->
                               </ul>
                           </li>
-                          <li class="scroll-to-section"><a href="./"">Testimonials</a></li>
-                          <li><a href="./contact-us"">Contact Support</a></li> 
+                          <li class="scroll-to-section"><a href="./login">Log In</a></li>
+                          <!-- <li><a href="./contact-us"">Contact Support</a></li>  -->
                       </ul>         
                       <a class='menu-trigger'>
                           <span>Menu</span>
@@ -104,7 +106,7 @@ https://templatemo.com/tm-574-mexant
       <div class="row">
         <div class="col-lg-12">
           <div id="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3649.4358043799048!2d90.3675614!3d23.8386537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c137d2fa48a9%3A0x5bb8819e06f749c9!2sLinkVision%20Software%20Solution!5e0!3m2!1sen!2sbd!4v1653129796870!5m2!1sen!2sbd" width="100%" height="450px" frameborder="0" style="border:0; border-radius: 5px; position: relative; z-index: 2;" allowfullscreen=""></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117756.92622248015!2d90.01006423990887!3d22.731811366145028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755515f65e7896b%3A0xcf7596a87082846d!2sSwarupkati%20Upazila!5e0!3m2!1sen!2sbd!4v1706174656378!5m2!1sen!2sbd" width="1300" height="450px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
         </div>
         <div class="col-lg-10 offset-lg-1">
@@ -127,7 +129,7 @@ https://templatemo.com/tm-574-mexant
               <div class="info-item">
                 <i class="fa fa-map-marked-alt"></i>
                 <h4>Address</h4>
-                <a href="#">Road: 12, House: 856, Floor: 1st Avenue No. 3, Dhaka 1216</a>
+                <a href="#">ওয়ার্ড নং-০১, স্বরূপকাঠী পৌরসভা, ৮৫২০</a>
               </div>
             </div>
           </div>
