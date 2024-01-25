@@ -384,7 +384,7 @@ https://templatemo.com/tm-574-mexant
       <div class="row">
         <div class="col-lg-7">
           <div class="left-image">
-            <img src="assets/images/calculator-image.png" alt="">
+            <img src="assets/images/calculatorimage.png" alt="">
           </div>
         </div>
         <div class="col-lg-5">

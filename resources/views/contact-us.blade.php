@@ -228,9 +228,9 @@ https://templatemo.com/tm-574-mexant
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>Copyright © 2022 Mexant Co., Ltd. All Rights Reserved. 
+          <p>Copyright © 2022  All Rights Reserved. 
           
-          <br>Designed by <a title="CSS Templates" rel="sponsored" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
+          <br>Designed by <a title="CSS Templates" rel="sponsored" href="https://www.linkedin.com/in/iftekhar-riyadh-17610a212/" target="_blank">Riyadh</a></p>
         </div>
       </div>
     </div>
