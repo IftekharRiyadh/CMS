@@ -524,7 +524,7 @@ https://templatemo.com/tm-574-mexant
         <div class="col-lg-12">
           <p> 
           
-          <br>Designed by <a title="CSS Templates" rel="sponsored" href="https://www.linkedin.com/in/iftekhar-riyadh-17610a212/" target="_blank">Riyadh</a></p>
+          <br>Designed by <a title="CSS Templates" rel="sponsored" href="https://www.linkedin.com/in/iftekhar-riyadh-17610a212/" target="_blank">Riyadh & Rahat</a></p>
         </div>
       </div>
     </div>
