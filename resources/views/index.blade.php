@@ -47,9 +47,10 @@ https://templatemo.com/tm-574-mexant
                       <!-- ***** Menu Start ***** -->
                       <ul class="nav">
                           <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
-                          <li class="scroll-to-section"><a href="#About-us">About Us</a></li>
+                          <li class="scroll-to-section"><a href="./about-us">About Us</a></li>
                           <li class="scroll-to-section"><a href="#Library">Library</a></li>
                           <li class="scroll-to-section"><a href="#Book List">Book List</a></li>
+                          <li class="scroll-to-section"><a href="./Gallery">Gallery</a></li>
                           <li class="has-sub">
                               <a href="javascript:void(0)">Committee</a>
                               <ul class="sub-menu">
@@ -74,7 +75,7 @@ https://templatemo.com/tm-574-mexant
 
                               </ul>
                           </li>
-                          <li class="scroll-to-section"><a href="#logIn">Log In</a></li>
+                          <li class="scroll-to-section"><a href="./login">Log In</a></li>
                           <!-- <li><a href="./contact-us">Contact Support</a></li>  -->
                       </ul>        
                       <a class='menu-trigger'>
@@ -167,7 +168,7 @@ https://templatemo.com/tm-574-mexant
 
   <!-- ***** Main Banner Area End ***** -->
 
-  <section class="services" id="services">
+  <!-- <section class="services" id="services">
     <div class="container">
       <div class="row">
         <div class="col-lg-6">
@@ -364,8 +365,8 @@ https://templatemo.com/tm-574-mexant
               </div>
             </div>
           </div>
-        </div>
-        <div class="col-lg-4">
+        </div> -->
+        <!-- <div class="col-lg-4">
           <div class="right-content">
             <h4>Please tell us about your idea and how you want it to be</h4>
             <p>You are allowed to use this template for your websites. You are <b>NOT allowed</b> to redistribute the template ZIP file on any other template websites.<br><br>Thank you for downloading and using our templates. Please tell your friends about our website.</p>
@@ -376,7 +377,7 @@ https://templatemo.com/tm-574-mexant
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <section class="calculator">
     <div class="container">
@@ -388,8 +389,8 @@ https://templatemo.com/tm-574-mexant
         </div>
         <div class="col-lg-5">
           <div class="section-heading">
-            <h6>Your Freedom</h6>
-            <h4>Get a Financial Plan</h4>
+            <h6>If Your Want</h6>
+            <h4>You can contribute</h4>
           </div>
           <form id="calculate" action="" method="get">
             <div class="row">
@@ -401,7 +402,7 @@ https://templatemo.com/tm-574-mexant
               </div>
               <div class="col-lg-6">
                 <fieldset>
-                  <label for="email">Your Email</label>
+                  <label for="email">Your Email Or Phone</label>
                   <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="" required="">
                 </fieldset>
               </div>
@@ -413,13 +414,13 @@ https://templatemo.com/tm-574-mexant
               </div>
               <div class="col-lg-12">
                 <fieldset>
-                  <label for="chooseOption" class="form-label">Your Reason</label>
+                  <label for="chooseOption" class="form-label">Payment Option</label>
                   <select name="Category" class="form-select" aria-label="Default select example" id="chooseOption" onchange="this.form.click()">
                       <option selected>Choose an Option</option>
                       <option type="checkbox" name="option1" value="Online Banking">Online Banking</option>
-                      <option value="Financial Control">Financial Control</option>
-                      <option value="Yearly Profit">Yearly Profit</option>
-                      <option value="Crypto Investment">Crypto Investment</option>
+                      <option value="Financial Control">Bank Account</option>
+                      <option value="Yearly Profit">Mobile Banking</option>
+                      <!-- <option value="Crypto Investment">Crypto Investment</option> -->
                   </select>
               </fieldset>
               </div>
@@ -448,29 +449,30 @@ https://templatemo.com/tm-574-mexant
           <div class="owl-testimonials owl-carousel" style="position: relative; z-index: 5;">
             <div class="item">
               <i class="fa fa-quote-left"></i>
-              <p>“Donec et nunc massa. Nullam non felis dignissim, dapibus turpis semper, vulputate lorem. Nam volutpat posuere tellus, in porttitor justo interdum nec. Aenean in dapibus risus, in euismod ligula. Aliquam vel scelerisque elit.”</p>
-              <h4>David Eigenberg</h4>
-              <span>CEO of Mexant</span>
+              <p>“মনে রাখবেন: একটি বই, একটি কলম , একটি শিশু এবং একজন শিক্ষক পৃথিবীকে বদলে দিতে পারে।”
+”</p>
+              <h4>-মালালা ইউসুফজাই</h4>
+              <span>একজন পাকিস্তানি শিক্ষা আন্দোলনকর্মী</span>
               <div class="right-image">
-                <img src="assets/images/testimonials-01.jpg" alt="">
+                <img src="assets/images/Mal.jpg" alt="">
               </div>
             </div>
             <div class="item">
               <i class="fa fa-quote-left"></i>
-              <p>“Etiam id ligula risus. Fusce fringilla nisl nunc, nec rutrum lectus cursus nec. In blandit nibh dolor, at rutrum leo accumsan porta. Nullam pulvinar eros porttitor risus condimentum tempus.”</p>
-              <h4>Andrew Garfield</h4>
-              <span>CTO of Mexant</span>
+              <p>“একটি বই একশটি বন্ধুর সমান.. কিন্তু একজন ভালো বন্ধু পুরো একটি লাইব্রেরির সমান।”</p>
+              <h4>— এপিজে আবুল কালাম আজাদ</h4>
+              <span>ভারতের প্রাক্তন রাষ্ট্রপতি</span>
               <div class="right-image">
-                <img src="assets/images/testimonials-01.jpg" alt="">
+                <img src="assets/images/ap.jpg" alt="">
               </div>
             </div>
             <div class="item">
               <i class="fa fa-quote-left"></i>
-              <p>“Ut dictum vehicula massa, ac pharetra leo tincidunt eu. Phasellus in tristique magna, ac gravida leo. Integer sed lorem sapien. Ut viverra mauris sed lobortis commodo.”</p>
-              <h4>George Lopez</h4>
-              <span>Crypto Manager</span>
+              <p>“একজন মানুষ ভবিষ্যতে কী হবেন সেটি অন্য কিছু দিয়ে বোঝা না গেলেও তার পড়া বইয়ের ধরন দেখে তা অনেকাংশেই বোঝা যায়”</p>
+              <h4>--- অস্কার ওয়াই</h4>
+              <span>আইরিশ নাট্যকার, ঔপন্যাসিক এবং কবি</span>
               <div class="right-image">
-                <img src="assets/images/testimonials-01.jpg" alt="">
+                <img src="assets/images/os.jpg" alt="">
               </div>
             </div>
           </div>
