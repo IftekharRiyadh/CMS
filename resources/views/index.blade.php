@@ -100,7 +100,7 @@ https://templatemo.com/tm-574-mexant
                 <div class="header-text">
                   <h2>পড়ার  <em>অভ্যাস </em> গড়ে তুলি<br> মাদককে <em>না বলি</em></h2>
                   <div class="div-dec"></div>
-                  <p>Mexant HTML5 Template is provided for free of charge. This layout is based on Boostrap 5 CSS framework. Anyone can download and edit for any professional website. Thank you for visiting TemplateMo website.</p>
+                  <p>বই পড়া মানব জীবনের সবচেয়ে ভালো অভ্যাস। এর মাধ্যমে একজন মানুষ জ্ঞান অর্জনের পাশাপাশি নিজেকে চিনতে পারে। নিজেকে যাবতীয় খারাপ অভ্যাস বিশেষ করে মাদক থেকে নিজেকে বিরত রাখতে পারে।</p>
                   <div class="buttons">
                     <div class="green-button">
                       <a href="#">Discover More</a>
@@ -123,7 +123,7 @@ https://templatemo.com/tm-574-mexant
                 <div class="header-text">
                   <h2><em>দরিদ্র </em> মেধাবী শিক্ষার্থীদের <br> শিক্ষা  <em>উপকরণ </em> বিতরন</h2>
                   <div class="div-dec"></div>
-                  <p>You will see a bunch of free CSS templates when you search on Google. TemplateMo website is probably the best one because it is 100% free. It does not ask you anything in return. You have a total freedom to use any template for any purpose.</p>
+                  <p>২০১০ সালে প্রতিষ্ঠিত হওয়া ২০০ বইয়ের ছোট্ট স্বরূপকাঠি লাইব্রেরি দীর্ঘ ১১ বছর ধরে প্রতি বছর অত্নত ২০ জন মেধামী দরিদ্র শিক্ষার্থীদের সম্পূর্ণ বছরের শিক্ষা উপকরণ দিয়ে আসছে।</p>
                   <div class="buttons">
                     <div class="green-button">
                       <a href="#">Discover More</a>
@@ -146,7 +146,7 @@ https://templatemo.com/tm-574-mexant
                 <div class="header-text">
                   <h2>জাতীয় দিবস উদযাপনে<br>মেধাভিত্তিক <em>কুইজ প্রতিযোগিতা</em></h2>
                   <div class="div-dec"></div>
-                  <p>When you browse through different tags on TemplateMo website, you can see a variety of CSS templates which are responsive website designs for different individual needs. Please tell your friends about our website. Thank you.</p>
+                  <p>স্বরূপকাঠি লাইব্রেরি এর কার্যক্রম বই পড়ার মধ্যে সীমাবদ্ধ না রেখে বিভিন্ন কুইজ প্রতিযোগিতা, রচনা প্রতিযোগিতা আয়োজন করে জাঁকজমক ভাবে সকল জাতীয় দিবস যেমন বিজয় দিবস, শহীদ দিবস উদযাপন করে।</p>
                   <div class="buttons">
                     <div class="green-button">
                       <a href="#">Discover More</a>

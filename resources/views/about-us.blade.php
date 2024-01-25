@@ -121,8 +121,8 @@ https://templatemo.com/tm-574-mexant
               </div>
               <div class="accordion-body">
                   <div class="content">
-                      <p>You will see a bunch of free CSS templates when you search on Google. TemplateMo website is probably the best one because it is 100% free. 
-                      <br><br>We do not ask you anything in return. You are free to use our templates for any purpose.</p>
+                      <p>গ্রন্থাগার কোন শখ নয়, প্রয়োজন। স্বরুপকাঠি উপজেলায় কোনো গ্রন্থাগার ছিল না। তাই গ্রন্থাগার প্রতিষ্ঠার লক্ষ্যে এলাকার একদল তরুণ স্বপ্ন দেখতে থাকে। যার ফলস্বরূপ ২০১০ সালের অক্টোবর মাসের ১০ তারিখ উপজেলা চেয়ারম্যানের নেতৃত্বে উপজেলা পরিষদে বসে স্বরূপকাঠি গ্রন্থাগার নামে একটি গ্রন্থাগার পতিষ্ঠার প্রথম প্রাতিষ্ঠানিক পরিকল্পনা করা হয়।
+                      <br><br>উপজেলা ভূমি অফিস থেকে প্রাপ্ত ২ শতক জমি আর ২০০ বই নিয়ে যাত্রা শুরু হয় স্বরূপকাঠি লাইব্রেরির। বর্তমানে এই লাইব্রেরির বইয়ের সংখ্যা ৪০০০ এবং বই পড়ার পাশাপাশি আর ও সামাজিক কর্মকাণ্ড যেমনঃ রক্তদান কর্মসূচি, জাতীয় দিবসে কুইজ প্রতিযোগিতা, অসহায় মানুষের পাশে দাঁড়ানো সহ বিভিন্ন কাজে গুরুত্বপূর্ণ অবদান রাখছে।</p>
                   </div>
               </div>
           </article>
@@ -135,8 +135,8 @@ https://templatemo.com/tm-574-mexant
             </div>
             <div class="accordion-body">
                 <div class="content">
-                    <p>Mexant HTML5 Template is available to download 100% free of charge. This CSS layout is based on Boostrap 5 framework. 
-                    <br><br>Anyone can edit and use this layout for all professional websites. Thank you for visiting TemplateMo website.</p>
+                    <p>উপজেলা ভূমি অফিস থেকে প্রাপ্ত ২ শতক জমি আর ২০০ বই নিয়ে যাত্রা শুরু হয় স্বরূপকাঠি লাইব্রেরির। বর্তমানে এই লাইব্রেরির বইয়ের সংখ্যা ৪০০০ এবং বই পড়ার পাশাপাশি আর ও সামাজিক 
+                    <br><br>কর্মকাণ্ড যেমনঃ রক্তদান কর্মসূচি, জাতীয় দিবসে কুইজ প্রতিযোগিতা, অসহায় মানুষের পাশে দাঁড়ানো সহ বিভিন্ন কাজে গুরুত্বপূর্ণ অবদান রাখছে।</p>
                 </div>
             </div>
           </article>

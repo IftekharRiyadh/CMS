@@ -111,22 +111,23 @@ https://templatemo.com/tm-574-mexant
           </div>
         </div>
         <div class="col-lg-6 align-self-center">
-          <div class="accordions is-first-expanded">
-            <article class="accordion">
-              <div class="accordion-head">
-                  <span>Steel Images</span>
-                  <span class="icon">
-                      <i class="icon fa fa-chevron-right"></i>
-                  </span>
-              </div>
-              <div class="accordion-body">
-                  <div class="content">
-                      <p>You will see a bunch of free CSS templates when you search on Google. TemplateMo website is probably the best one because it is 100% free. 
-                      <br><br>We do not ask you anything in return. You are free to use our templates for any purpose.</p>
-                  </div>
-              </div>
-          </article>
-          <article class="accordion">
+    <div class="accordions is-first-expanded">
+        <article class="accordion">
+            <div class="accordion-head">
+                <span>Steel Images</span>
+                <span class="icon">
+                    <i class="icon fa fa-chevron-right"></i>
+                </span>
+            </div>
+            <div class="accordion-body">
+                <div class="content">
+                    <img src="assets/images/Front.jpg" alt="Steel Images">
+                    <p>You will see a bunch of free CSS templates when you search on Google. TemplateMo website is probably the best one because it is 100% free.
+                        <br><br>We do not ask you anything in return. You are free to use our templates for any purpose.</p>
+                </div>
+            </div>
+        </article>
+        <article class="accordion">
             <div class="accordion-head">
                 <span>Video</span>
                 <span class="icon">
@@ -135,13 +136,15 @@ https://templatemo.com/tm-574-mexant
             </div>
             <div class="accordion-body">
                 <div class="content">
-                    <p>Mexant HTML5 Template is available to download 100% free of charge. This CSS layout is based on Boostrap 5 framework. 
-                    <br><br>Anyone can edit and use this layout for all professional websites. Thank you for visiting TemplateMo website.</p>
+                    <img src="path/to/video_thumbnail.jpg" alt="Video Thumbnail">
+                    <p>Mexant HTML5 Template is available to download 100% free of charge. This CSS layout is based on Bootstrap 5 framework.
+                        <br><br>Anyone can edit and use this layout for all professional websites. Thank you for visiting TemplateMo website.</p>
                 </div>
-            
             </div>
-          </article>
-        </div>
+        </article>
+    </div>
+</div>
+
       </div>
     </div>
   </section>  
