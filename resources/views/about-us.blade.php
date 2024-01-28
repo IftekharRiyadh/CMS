@@ -73,7 +73,7 @@ https://templatemo.com/tm-574-mexant
                                   <li><a href="./contact-us">Contact Us</a></li> -->
                               </ul>
                           </li>
-                          <li class="scroll-to-section"><a href="./login">Log In</a></li>
+                          <li class="scroll-to-section"><a href="{{ url('/login') }}">Log In</a></li>
                           <!-- <li><a href="./contact-us"">Contact Support</a></li>  -->
                       </ul>        
                       <a class='menu-trigger'>
