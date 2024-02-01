@@ -2,6 +2,9 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\LoginController;
+use App\Http\Controllers\CommitteeController;
+use App\Http\Controllers\MemberController;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,9 +17,17 @@ use App\Http\Controllers\AuthController;
 |
 */
 
+// // Login routes
+// Route::get('/login', [LoginController::class, 'showLoginForm'])->name('login');
+// Route::post('/login', [LoginController::class, 'login']);
+
+// // Logout route
+// Route::post('/logout', [LoginController::class, 'logout'])->name('logout');
+
 Route::get('/login', [AuthController::class, 'showLoginForm'])->name('login');
 Route::post('/login', [AuthController::class, 'login']);
 Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
+Route::post('/login', [LoginController::class, 'login'])->name('login');
 Route::get('/', function () {
     return view('index');
 });
@@ -90,5 +101,10 @@ Route::get('/publication', function () {
 Route::get('/contact-us', function () {
     return view('contact-us');
 });
-
+Route::get('/committee', function () {
+    return view('committee');
+});
+Route::get('/member', function () {
+    return view('member');
+});
 

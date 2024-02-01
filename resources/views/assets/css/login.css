@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('{{ url("assets/images/slide-02.jpg") }}'); /* Replace with the path to your image */
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent white background for better readability */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.login-form {
+    /* Additional styles for your login form */
+}
+
+label, input, button {
+    display: block;
+    margin-bottom: 15px;
+}

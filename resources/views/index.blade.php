@@ -54,9 +54,9 @@ https://templatemo.com/tm-574-mexant
                           <li class="has-sub">
                               <a href="javascript:void(0)">Committee</a>
                               <ul class="sub-menu">
-                                  <li><a href="./about-us">New Comittee</a></li>
-                                  <li><a href="./our-services">Old Comittee</a></li>
-                                  <li><a href="./course">Members</a></li>
+                                  <li><a href="./committee">New Comittee</a></li>
+                                  <li><a href="./committee">Old Comittee</a></li>
+                                  <li><a href="./member">Members</a></li>
                                   <!-- <li><a href="./choose">Why Choose Us</a></li>
                                   <li><a href="./admission">Admission</a></li>
                                   <li><a href="./admission-requirement">Admission Requirement</a></li>
@@ -93,7 +93,7 @@ https://templatemo.com/tm-574-mexant
   <div class="swiper-container" id="top">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <div class="slide-inner" style="background-image:url(assets/images/slide01.jpg)">
+        <div class="slide-inner" style="background-image:url(assets/images/slide-02.jpg)">
           <div class="container">
             <div class="row">
               <div class="col-lg-8">
